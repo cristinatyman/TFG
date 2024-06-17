@@ -1,5 +1,6 @@
 # Exploring Political Far-Right Content in Video-based Social Networks
-Author: Cristina Tyman
+Bachelor’s Thesis of Cristina Tyman
+
 
 Supervisor: Diego Saez
 
