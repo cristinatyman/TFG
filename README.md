@@ -9,5 +9,5 @@ This project examines political content on video-based social networks, with a f
 
 ## Structure and Use of the Code
 The code is divided into two parts: one for video descriptions and one for captions. The section handling video descriptions is designed to take a CSV file as input. The provided results illustrate an example using the videos from the VOX channel.
-There are no results shown for the Google Perspective API.
+
 
